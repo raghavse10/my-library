@@ -1,0 +1,160 @@
+[{
+  "_id": {
+    "$oid": "661bb47a2c17aebc7398cc73"
+  },
+  "BookID": 1000,
+  "BookName": "Book 1",
+  "NumberOfCopies": 1
+},
+{
+  "_id": {
+    "$oid": "661bb47a2c17aebc7398cc74"
+  },
+  "BookID": 1001,
+  "BookName": "Book 2",
+  "NumberOfCopies": 4
+},
+{
+  "_id": {
+    "$oid": "661bb47a2c17aebc7398cc75"
+  },
+  "BookID": 1002,
+  "BookName": "Book 3",
+  "NumberOfCopies": 1
+},
+{
+  "_id": {
+    "$oid": "661bb47a2c17aebc7398cc76"
+  },
+  "BookID": 1003,
+  "BookName": "Book 4",
+  "NumberOfCopies": 3
+},
+{
+  "_id": {
+    "$oid": "661bb47a2c17aebc7398cc77"
+  },
+  "BookID": 1004,
+  "BookName": "Book 5",
+  "NumberOfCopies": 1
+},
+{
+  "_id": {
+    "$oid": "661bb47a2c17aebc7398cc78"
+  },
+  "BookID": 1005,
+  "BookName": "Book 6",
+  "NumberOfCopies": 2
+},
+{
+  "_id": {
+    "$oid": "661bb47a2c17aebc7398cc79"
+  },
+  "BookID": 1006,
+  "BookName": "Book 7",
+  "NumberOfCopies": 4
+},
+{
+  "_id": {
+    "$oid": "661bb47a2c17aebc7398cc7a"
+  },
+  "BookID": 1007,
+  "BookName": "Book 8",
+  "NumberOfCopies": 4
+},
+{
+  "_id": {
+    "$oid": "661bb47a2c17aebc7398cc7b"
+  },
+  "BookID": 1008,
+  "BookName": "Book 9",
+  "NumberOfCopies": 3
+},
+{
+  "_id": {
+    "$oid": "661bb47a2c17aebc7398cc7c"
+  },
+  "BookID": 1009,
+  "BookName": "Book 10",
+  "NumberOfCopies": 1
+},
+{
+  "_id": {
+    "$oid": "661bb47a2c17aebc7398cc7d"
+  },
+  "BookID": 1010,
+  "BookName": "Book 11",
+  "NumberOfCopies": 5
+},
+{
+  "_id": {
+    "$oid": "661bb47a2c17aebc7398cc7e"
+  },
+  "BookID": 1011,
+  "BookName": "Book 12",
+  "NumberOfCopies": 5
+},
+{
+  "_id": {
+    "$oid": "661bb47a2c17aebc7398cc7f"
+  },
+  "BookID": 1012,
+  "BookName": "Book 13",
+  "NumberOfCopies": 4
+},
+{
+  "_id": {
+    "$oid": "661bb47a2c17aebc7398cc80"
+  },
+  "BookID": 1013,
+  "BookName": "Book 14",
+  "NumberOfCopies": 3
+},
+{
+  "_id": {
+    "$oid": "661bb47a2c17aebc7398cc81"
+  },
+  "BookID": 1014,
+  "BookName": "Book 15",
+  "NumberOfCopies": 3
+},
+{
+  "_id": {
+    "$oid": "661bb47a2c17aebc7398cc82"
+  },
+  "BookID": 1015,
+  "BookName": "Book 16",
+  "NumberOfCopies": 5
+},
+{
+  "_id": {
+    "$oid": "661bb47a2c17aebc7398cc83"
+  },
+  "BookID": 1016,
+  "BookName": "Book 17",
+  "NumberOfCopies": 4
+},
+{
+  "_id": {
+    "$oid": "661bb47a2c17aebc7398cc84"
+  },
+  "BookID": 1017,
+  "BookName": "Book 18",
+  "NumberOfCopies": 1
+},
+{
+  "_id": {
+    "$oid": "661bb47a2c17aebc7398cc85"
+  },
+  "BookID": 1018,
+  "BookName": "Book 19",
+  "NumberOfCopies": 4
+},
+{
+  "_id": {
+    "$oid": "661bb47a2c17aebc7398cc86"
+  },
+  "BookID": 1019,
+  "BookName": "Book 20",
+  "NumberOfCopies": 5
+}]

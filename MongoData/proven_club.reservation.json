@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "661bcbf3b09f6a1e003cafba"
+  },
+  "BookID": 1000,
+  "MemberID": 2002,
+  "ReservedAt": {
+    "$date": "2024-04-14T17:58:35.711Z"
+  },
+  "FulfilledAt": {
+    "$date": "2024-04-14T18:00:23.493Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "661bcbf8b09f6a1e003cafbb"
+  },
+  "BookID": 1000,
+  "MemberID": 2003,
+  "ReservedAt": {
+    "$date": "2024-04-14T17:58:40.448Z"
+  },
+  "FulfilledAt": {
+    "$date": "2024-04-14T17:58:51.415Z"
+  }
+}]

@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "661bcbe9b09f6a1e003cafb8"
+  },
+  "BookID": 1000,
+  "MemberID": 2000,
+  "CheckoutAt": {
+    "$date": "2024-04-14T17:58:25.906Z"
+  },
+  "ReturnedAt": {
+    "$date": "2024-04-14T17:58:45.285Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "661bcbeeb09f6a1e003cafb9"
+  },
+  "BookID": 1000,
+  "MemberID": 2001,
+  "CheckoutAt": {
+    "$date": "2024-04-14T17:58:30.841Z"
+  },
+  "ReturnedAt": {
+    "$date": "2024-04-14T18:00:42.777Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "661bcc03b09f6a1e003cafbc"
+  },
+  "BookID": 1000,
+  "MemberID": 2003,
+  "CheckoutAt": {
+    "$date": "2024-04-14T17:58:51.415Z"
+  },
+  "ReturnedAt": {
+    "$date": "2024-04-14T17:59:28.120Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "661bcc5fb09f6a1e003cafbd"
+  },
+  "BookID": 1000,
+  "MemberID": 2002,
+  "CheckoutAt": {
+    "$date": "2024-04-14T18:00:23.493Z"
+  },
+  "ReturnedAt": null
+}]
