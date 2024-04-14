@@ -29,6 +29,6 @@ Similarly, a time period can be set for borrowing books. If after 15 days the bo
 
 
 DSA Problem:
-The DSA problem given in the assignement is solved in a file named dsa_problem.py
+The DSA problem given in the assignment is solved in a file named dsa_problem.py. Although there is a faster method than using 2 for loops using two pointer i and j, as of now, I'm not able to recollect it.
 
 
